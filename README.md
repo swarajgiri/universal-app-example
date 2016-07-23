@@ -10,7 +10,7 @@ gulp start
 ```
 
 
-Enjoy a truly univeral approach!
+Enjoy a truly universal approach!
 
 Visit http://localhost:3055/ and check the console!
 
